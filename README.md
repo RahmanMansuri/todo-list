@@ -1,21 +1,21 @@
 # todo-list
 
-# 📝 To-Do List App
+# To-Do List App
 
 A simple To-Do List built with HTML, CSS, and JavaScript. Users can add, delete, and manage daily tasks efficiently.
 
-## 🔧 Features
+## Features
 - Add tasks
 - Delete tasks
 
-## 💻 Tech Stack
+## Tech Stack
 - HTML
 - CSS
 - JavaScript
 
-## 📦 Folder Structure
-todo-list/
-├── index.html # Main HTML file
-├── style.css # Styling (CSS)
-├── script.js # JavaScript logic
+## Folder Structure
+todo-list/ <br>
+├── index.html # Main HTML file <br>
+├── style.css # Styling (CSS) <br>
+├── script.js # JavaScript logic <br>
 └── README.md # Project documentation
